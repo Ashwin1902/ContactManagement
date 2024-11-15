@@ -72,4 +72,4 @@ Start the frontend development server:
 ```bash
 npm run dev
 ```
-The frontend will run on http://localhost:3000.
+The frontend will run on http://localhost:5173.
